@@ -6,7 +6,17 @@ For more information about me as well as other projects, check out [andrewbauman
 
 ## Contents
 
-* Coming Soon
+#### Machine Learning
+  * Supervised Learning: Text Classification: Classification model to accurately predict groups for new tounge-twisters.
+  * Supervised and Unsupervised Learning: 20 Newsgroups: Analyzing and Classifying Data from the famous '20 Newsgroups' dataset. Uses both Logistic Regression as well as a Keras Neural Network.
+  
+  _Tools: Scikit-Learn, NumPy, Pandas, Seaborn, Matplotlib, Keras, TensorFlow_
+  
+#### Natural Language Processing
+  * Fine-Grained Sentiment Analysis (Amazon Reviews): Five-way polarity (Five-Star Rating) classification system for Amazon Review data using Logistic Regression and Neural Networks.
+  
+  _Tools: Scikit-Learn, Pandas, Seaborn, Matplotlib, Keras, TensorFlow_
+
 
 I am also versed in project management and web development.
 If you like what you saw and would like to get in touch about the portfolio, work opportunities, or collaboration, please contact me at hi@andrewbauman.me. 
